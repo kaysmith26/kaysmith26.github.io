@@ -1,0 +1,25 @@
+/*apploes to whole webpage */
+#border {
+  border-style: dotted;
+  border-color: yellow;
+}
+
+
+*{
+  font-size: 20px;
+}
+
+/* applies to only the div tag */
+.div {
+  margin-top: 50px;
+  margin-left: 40px;
+}
+
+#border {
+  border-style: double;
+  border-color: darkBlue;
+}
+
+#colorful {
+  color: orange;
+}
